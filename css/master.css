@@ -79,7 +79,7 @@
 
 .container .daniel {
     grid-column: span 3;
-    background-color: hsl(263, 55%, 52%);
+    background: url(../images/bg-pattern-quotation.svg) right top no-repeat, hsl(263, 55%, 52%);
     color: white;
 }
 
